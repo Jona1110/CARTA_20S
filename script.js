@@ -1,10 +1,12 @@
 const textContent = `Mi amor, mi vida, mi Atziri:
 
-Si estás leyendo esto es porque finalmente pude entregarte lo que ya tenía guardado para ti. Te confieso, y de verdad no te rías, que esta carta ya estaba lista desde antes del 10 de abril...
+Si estás leyendo esto es porque finalmente pude entregarte lo que ya tenía guardado para ti. Te confieso que esta carta ya estaba lista desde antes del 10 de abril...
 
-No fue falta de ganas, al contrario, me enfoqué tanto en que cada detalle de tu cumple fuera perfecto que se me pasó entregártela en el momento. Pero aquí está, porque eres mi motor y mi lugar seguro.
+No fue falta de ganas, solo se me pasó entregártela en el momento por la presion del día. Pero aquí está una parte de ella, porque eres mi motor y mi lugar seguro.
 
 Gracias por estos 20 años que le regalas al mundo y por dejarme estar a tu lado. Te amo con toda mi alma.
+
+En la noche te doy tu carta completa.
 
 Con todo mi amor, Jonathan.`;
 
