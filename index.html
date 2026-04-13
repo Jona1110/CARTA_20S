@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para mi persona favorita ❤️</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <canvas id="heartCanvas"></canvas>
+
+    <audio id="bgMusic" loop>
+        <source src="music/tu-cancion.mp3" type="audio/mpeg">
+    </audio>
+
+    <div class="container">
+        <div class="envelope-wrapper" id="envelope">
+            <div class="envelope">
+                <div class="letter">
+                    <div class="text" id="typewriterText">
+                        </div>
+                </div>
+            </div>
+            <div class="heart" id="heartBtn"></div>
+        </div>
+        <p class="instruction">Toca el corazón, amor...</p>
+        <button id="muteBtn" class="mute-btn">🎵</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
